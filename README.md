@@ -1,5 +1,7 @@
 
-## Hi,i'm Eftihia,undegraduate student in [Cse,UoI](https://cse.uoi.gr/).I'm mainly interested in data analysis and software engineering.
+## Hi,i'm Eftihia,undegraduate student in [Cse,UoI](https://cse.uoi.gr/)
+
+I'm mainly interested in data analysis and software engineering.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
