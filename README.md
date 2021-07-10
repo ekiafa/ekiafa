@@ -13,7 +13,8 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/ekiafa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekiafa&hide=jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
+  <img align="center" src=(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+ />
 </a>
 <a href="https://github.com/ekiafa">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ekiafa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ekiafa's GitHub Stats" />
