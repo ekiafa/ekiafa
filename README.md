@@ -1,7 +1,7 @@
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 [![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=fe4071)](https://www.jetbrains.com/idea/)
 [![](https://img.shields.io/badge/Code-Java-D2691E?style=flat&logo=java&logoColor=white)](https://adoptopenjdk.net/)
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)](https://www.python.org/downloads/)
