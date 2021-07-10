@@ -1,5 +1,5 @@
 
-## Hi,i'm Eftihia,undegraduate student in [Cse,UoI](https://cse.uoi.gr/)
+## Hi, i'm Eftihia, undegraduate student in [Cse,UoI](https://cse.uoi.gr/)
 
 I'm mainly interested in data analysis and software engineering.
 
