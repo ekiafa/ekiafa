@@ -1,35 +1,14 @@
+# Eftychia Kiafa
 
-# Hi, I'm Eftychia 👋
+Data Engineer | AML & Regulatory Compliance | Banking Systems
 
-**Data Engineer | AML & Regulatory Compliance | Banking Systems**
+4 years at Natech Banking Solutions — transaction monitoring, sanctions/PEP screening, batch ETL, regulatory reporting. Currently building modern data engineering skills through personal projects with Databricks, PySpark, dbt, and Airflow.
 
-I'm a Data Engineer with 4 years of experience at Natech Banking Solutions, working in banking software and AML / regulatory compliance. I've designed and implemented transaction monitoring rules, sanctions/PEP screening, batch ETL pipelines, and regulatory reporting used in production.
-
-Beyond my core SQL Server / .NET background, I'm building modern data engineering skills through hands-on personal projects — Databricks, PySpark, dbt, and Apache Airflow.
-
----
-
-### 🔧 Core Skills (production experience)
-`SQL Server` `T-SQL` `C#` `.NET Framework` `Blazor` `Git` `Liquibase`
-
-### 🚀 Actively Building (project-based)
-`PySpark` `dbt` `Databricks` `Delta Lake` `Apache Airflow` `Python` `Docker`
-
-### 🏦 Domain Expertise
-Money-laundering typologies · Transaction monitoring · Sanctions / PEP screening · SAR reporting · Regulatory reporting
+**Core:** SQL Server · T-SQL · C# · .NET
+**Building:** PySpark · dbt · Databricks · Airflow · Python
 
 ---
 
-### 📌 Featured Projects
+**[AML Transaction Monitoring Pipeline](https://github.com/ekiafa/aml-transaction-monitoring-pipeline)** — Medallion-architecture ETL pipeline with PySpark, dbt, and Databricks; risk scoring, data-quality tests, Airflow orchestration.
 
-**[AML Transaction Monitoring Pipeline](https://github.com/ekiafa/aml-transaction-monitoring-pipeline)**
-End-to-end ETL/ELT pipeline (medallion architecture) on IBM's synthetic AML dataset. PySpark ingestion + dbt transformations on Databricks, feature engineering (velocity, fan-in/fan-out, currency mismatch), risk scoring, orchestrated with Apache Airflow, 12 automated data-quality tests, fully containerized.
-
-**[Olist Analytics Warehouse](https://github.com/ekiafa/olist-analytics-warehouse)**
-Dimensional model (star schema) for e-commerce reporting, built with dbt on Databricks using the real Olist Brazilian e-commerce dataset. SCD Type 2 dimensions, two fact tables at different grains, dbt tests for data integrity.
-
----
-
-
-### 📫 Let's connect
-[LinkedIn](https://www.linkedin.com/in/eftychiakiafa) · kiafaeftychia@gmail.com
+**[Olist Analytics Warehouse](https://github.com/ekiafa/olist-analytics-warehouse)** — Dimensional data warehouse (star schema) built with dbt on Databricks.
